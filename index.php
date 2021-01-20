@@ -48,8 +48,8 @@
       <h1>ここにタイトルを入力して下さい</h1>
       <p class="lead text-muted">ここにメッセージを sample sample sample sample sample sample sample sample sample sample sample sample sample sample sample sample sample sample </p>
       <p>
-        <a href="#" class="btn btn-primary my-2">sample -secondary jump or action</a>
-        <a href="#" class="btn btn-secondary my-2">sample -3rd jump or action</a>
+        <a href="#" class="btn btn-primary my-2">例：action or jump</a>
+        <a href="#" class="btn btn-secondary my-2">例：action or jump</a>
       </p>
     </div>
   </section>
@@ -253,8 +253,8 @@
     <p class="float-right">
       <a href="#">Back to top</a>
     </p>
-    <p>Album example is &copy; Bootstrap, but please download and customize it for yourself!</p>
-    <p>New to Bootstrap? <a href="https://getbootstrap.com/">Visit the homepage</a> or read our <a href="../getting-started/introduction/">getting started guide</a>.</p>
+<!--    <p>Album example is &copy; Bootstrap, but please download and customize it for yourself!</p>
+    <p>New to Bootstrap? <a href="https://getbootstrap.com/">Visit the homepage</a> or read our <a href="../getting-started/introduction/">getting started guide</a>.</p>-->
   </div>
 </footer>
 
