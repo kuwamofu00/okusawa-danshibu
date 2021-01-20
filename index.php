@@ -48,8 +48,8 @@
       <h1>ここにタイトルを入力して下さい</h1>
       <p class="lead text-muted">ここにメッセージを sample sample sample sample sample sample sample sample sample sample sample sample sample sample sample sample sample sample </p>
       <p>
-        <a href="#" class="btn btn-primary my-2">Main call to action</a>
-        <a href="#" class="btn btn-secondary my-2">Secondary action</a>
+        <a href="#" class="btn btn-primary my-2">sample secondary page</a>
+        <a href="#" class="btn btn-secondary my-2">sample 3rd page</a>
       </p>
     </div>
   </section>
