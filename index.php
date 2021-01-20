@@ -45,7 +45,7 @@
 
   <section class="jumbotron text-center">
     <div class="container">
-      <h1>sample 創価学会世田谷区奥沢部</h1>
+      <h1>ここにタイトルを入力して下さい</h1>
       <p class="lead text-muted">ここにメッセージを sample sample sample sample sample sample sample sample sample sample sample sample sample sample sample sample sample sample </p>
       <p>
         <a href="#" class="btn btn-primary my-2">Main call to action</a>
