@@ -82,13 +82,13 @@
         <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
             <div class="bd-placeholder-img card-img-top bg-secondary d-flex align-items-center">
-              <span class="d-block text-center" style="width: 100%;"><a href="https://www.google.com/intl/ja/homepage/mobile/" target="_blank">2020/12/27(日)</br>奥沢部第２回研鑽会</br>新・人間革命第１巻『旭日』の章①</a></span>  
+              <span class="d-block text-center" style="width: 100%;"><a href="https://mega.nz/file/PktUGSKB#b_sqJt9Vt3AjLNbp8pXapghEV4W0B8Jc2MIH5P8TpgE" target="_blank">2020/12/27(日)</br>奥沢部第２回研鑽会</br>新・人間革命第１巻『旭日』の章①</a></span>  
             </div>
             <div class="card-body">
               <p class="card-text">動画の紹介メッセージを入力　sample sample sample sample sample sample sample sample sample sample sample sample sample sample sample</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <a class="btn btn-sm btn-outline-secondary" href="https://www.google.com/intl/ja/homepage/mobile/" target="_blank">見る</a>
+                  <a class="btn btn-sm btn-outline-secondary" href="https://mega.nz/file/PktUGSKB#b_sqJt9Vt3AjLNbp8pXapghEV4W0B8Jc2MIH5P8TpgE" target="_blank">見る</a>
                   <!--<button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
                   -->
                 </div><small class="text-muted">30.01分</small>
