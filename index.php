@@ -48,7 +48,7 @@
       <h1>ここにタイトルを入力して下さい</h1>
       <p class="lead text-muted">ここにメッセージを sample sample sample sample sample sample sample sample sample sample sample sample sample sample sample sample sample sample </p>
       <p>
-        <a href="#" class="btn btn-primary my-2">例：action or jump</a>
+        <a href="https://mega.nz/file/W0MFAAjY#bIq5s6DhJUkIoKAHbHZy9OCDKMFRs08WNYxYuYtLHck" class="btn btn-primary my-2">例：action or jump</a>
         <a href="#" class="btn btn-secondary my-2">例：action or jump</a>
       </p>
     </div>
