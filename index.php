@@ -45,7 +45,7 @@
 
   <section class="jumbotron text-center">
     <div class="container">
-      <h1>ここにタイトルを入力して下さい</h1>
+      <h1>創価学会奥沢男子部</h1>
       <p class="lead text-muted">ここにメッセージを sample sample sample sample sample sample sample sample sample sample sample sample sample sample sample sample sample sample </p>
       <p>
         <a href="https://mega.nz/file/W0MFAAjY#bIq5s6DhJUkIoKAHbHZy9OCDKMFRs08WNYxYuYtLHck" class="btn btn-primary my-2">例：action or jump</a>
