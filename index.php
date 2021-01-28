@@ -86,10 +86,11 @@
           </div>
         </div>
 -->        
-        <div class="col-md-4">
+<!--1................................................................................................................-->        <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
             <div class="bd-placeholder-img card-img-top bg-secondary d-flex align-items-center">
-              <span class="d-block text-center" style="width: 100%;"><a href="https://mega.nz/file/PktUGSKB#b_sqJt9Vt3AjLNbp8pXapghEV4W0B8Jc2MIH5P8TpgE" target="_blank">2020/12/27(日)</br>奥沢部第２回研鑽会</br>新・人間革命第１巻『旭日』の章①</a></span>  
+              <span class="d-block text-center" style="width: 100%;"><a href="https://mega.nz/file/PktUGSKB#b_sqJt9Vt3AjLNbp8pXapghEV4W0B8Jc2MIH5P8TpgE"
+               target="_blank">奥沢部第1回研鑽会</br>新・人間革命第１巻『旭日』の章1</a></span>  
             </div>
             <div class="card-body">
               <p class="card-text">『新・人間革命』第1巻が発刊されたのは1998年（平成10年）の1月2日。池田先生が70歳の古希を迎えた日です。
@@ -111,17 +112,27 @@
             </div>
           </div>
         </div>
-        
+<!--2................................................................................................................-->        
         <div class="col-md-4">
             <div class="card mb-4 shadow-sm">
               <div class="bd-placeholder-img card-img-top bg-secondary d-flex align-items-center">
-                <span class="d-block text-center" style="width: 100%;"><a href="https://www.google.com/intl/ja/homepage/mobile/" target="_blank">2021/01/13(水曜日) 第一回奥沢部</a></span>  
+                <span class="d-block text-center" style="width: 100%;"><a href="https://mega.nz/file/FxsGAJ4C#I276K7qSu5Cnn2scd3-osyXA0Yb9M0wbM05arRaP8EI
+" target="_blank">奥沢部第2回研鑽会</br>新・人間革命第１巻『旭日』の章2</a></span>  
               </div>
               <div class="card-body">
-                <p class="card-text">動画の紹介メッセージを入力　sample sample sample sample sample sample sample sample sample sample sample sample sample sample sample</p>
+                <p class="card-text">
+伸一が世界広布の第一歩を刻んだ60年（昭和35年）は、国内外において激動の時代でした。
+日本では、日米安全保障条約の改定を巡り、国論は二分していた。世界は冷戦時代の真っただ中で、核兵器の脅威にさらされていました。
+アメリカ国内を見ても、人種差別が続いていた。ブラジルでは、日系移住者が数多くの労苦を抱えていました。
+「アメリカという新天地に、題目を染み渡らせる思いで、国土の繁栄を祈り念じ、常に唱題を心がけていた」（190ページ）とつづられている通り、
+伸一は訪問した先々で、友の幸福と地域の発展を胸中で祈りながら、平和旅を続けました。
+こうした真剣な祈りと、24日間で3カ国9都市を巡るという激闘によって、2支部17地区が結成され、世界宗教への幕が開かれたのです。
+世界広布といっても、「目の前の『一人    』を励ますことから始まる」
+恩師の「征くんだ」との叫びは、池田先生にとって戸田先生と歩む「平和への遠征」の原点にほかならなかったのです。
                 <div class="d-flex justify-content-between align-items-center">
                   <div class="btn-group">
-                    <a class="btn btn-sm btn-outline-secondary" href="https://www.google.com/intl/ja/homepage/mobile/" target="_blank">View</a>
+                    <a class="btn btn-sm btn-outline-secondary" href="https://mega.nz/file/FxsGAJ4C#I276K7qSu5Cnn2scd3-osyXA0Yb9M0wbM05arRaP8EI
+" target="_blank">View</a>
                     <!--<button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>-->
                   </div>
                 </div>
@@ -131,13 +142,21 @@
           <div class="col-md-4">
             <div class="card mb-4 shadow-sm">
               <div class="bd-placeholder-img card-img-top bg-secondary d-flex align-items-center">
-                <span class="d-block text-center" style="width: 100%;"><a href="https://www.google.com/intl/ja/homepage/mobile/" target="_blank">2021/01/13(水曜日) 第一回奥沢部</a></span>  
+                <span class="d-block text-center" style="width: 100%;"><a href="https://mega.nz/file/A50WRQ5D#KJX4uH7JxgI5BYa9zZAo6dQC0_teIEiHWMopz9z7sfQ"
+                 target="_blank">奥沢部第3回研鑽会</br>新・人間革命第１巻『本陣』の章1</a></span>  
               </div>  
               <div class="card-body">
-                <p class="card-text">動画の紹介メッセージを入力　sample sample sample sample sample sample sample sample sample sample sample sample sample sample sample</p>
+                <p class="card-text">
+1973年(昭和48年)は、「教学の年」(別名「青年の年」)。前年に、恩師・戸田城聖の遺言である正本堂建立を実現した伸一は、
+仏法の哲理を時代精神にするべく、先頭に立って教学の深化を図るとともに、広く社会への展開を決意。
+「広布第二章」とは、仏法を基調とした本格的な社会建設の時代への開幕であり、「新しき開拓」を意味した。
+伸一は『大白蓮華』で、てい談「生命論」の連載を開始。また、「仏教大学講座」の創設を発表。
+その担い手は青年たちだった。2月18日の第21回男子部総会、女子部総会、学生部総会、初の九州青年部総会が相次いで開催され出席した。
+その際、伸一は、「師弟の道を歩め」と指導。仏法を社会に大きく展開していくのは遠心力、その遠心力が強くなればなるほど、
+仏法への求心力が必要。その求心力の中心こそが、師弟不二の精神であると訴えた。</p>
                 <div class="d-flex justify-content-between align-items-center">
                   <div class="btn-group">
-                    <a class="btn btn-sm btn-outline-secondary" href="https://www.google.com/intl/ja/homepage/mobile/" target="_blank">View</a>
+                    <a class="btn btn-sm btn-outline-secondary" href="https://mega.nz/file/A50WRQ5D#KJX4uH7JxgI5BYa9zZAo6dQC0_teIEiHWMopz9z7sfQ" target="_blank">View</a>
                     <!--<button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>-->
                   </div>
                 </div>
