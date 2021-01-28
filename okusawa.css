@@ -20,7 +20,7 @@ jumbotron {
   }
   
   .jumbotron .container {
-    max-width: 40rem;
+    max-width: 50rem;
   }
   
   footer {
@@ -50,4 +50,10 @@ jumbotron {
   }
   .card .bg-secondary a {
     color: #eceeef;
+}
+
+.lead-text-muted-o{ 
+color: #6c757d!important;
+font-size: 1.0rem;
+    font-weight: 300;
 }
