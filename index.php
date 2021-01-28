@@ -132,7 +132,7 @@
                 <div class="d-flex justify-content-between align-items-center">
                   <div class="btn-group">
                     <a class="btn btn-sm btn-outline-secondary" href="https://mega.nz/file/FxsGAJ4C#I276K7qSu5Cnn2scd3-osyXA0Yb9M0wbM05arRaP8EI
-" target="_blank">View</a>
+" target="_blank">見る</a>
                     <!--<button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>-->
                   </div>
                 </div>
@@ -156,7 +156,7 @@
 仏法への求心力が必要。その求心力の中心こそが、師弟不二の精神であると訴えた。</p>
                 <div class="d-flex justify-content-between align-items-center">
                   <div class="btn-group">
-                    <a class="btn btn-sm btn-outline-secondary" href="https://mega.nz/file/A50WRQ5D#KJX4uH7JxgI5BYa9zZAo6dQC0_teIEiHWMopz9z7sfQ" target="_blank">View</a>
+                    <a class="btn btn-sm btn-outline-secondary" href="https://mega.nz/file/A50WRQ5D#KJX4uH7JxgI5BYa9zZAo6dQC0_teIEiHWMopz9z7sfQ" target="_blank">見る</a>
                     <!--<button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>-->
                   </div>
                 </div>
