@@ -47,7 +47,7 @@
     <div class="container">
       <h1>奥沢男子部の研鑽物語</h1>
       <p class="lead text-muted text-left" >
-        </br>概要：毎週日曜20：20分より開催される 小説「新・人間革命」を研鑽する活動。
+        </br>日曜20:20分頃より開催される「御書」、小説「新・人間革命」を研鑽する活動。
         </br>「新・人間革命」とは戸田城聖の後を継ぎ、創価学会第三代会長となった山本伸一の峻厳(しゅんげん)な「弟子の道」が綴られている。
         日蓮大聖人の仏法のヒューマニズムの光をかかげて、世界を舞台に繰り広げられる民衆凱歌の大河小説。
         <p class="lead text-muted text-center" >部長メッセージ：「共に研鑽し、実生活の中で生かして参りましょう!!!」</p>
@@ -87,10 +87,34 @@
         </div>
 -->        
 <!--1................................................................................................................-->        <div class="col-md-4">
-          <div class="card mb-4 shadow-sm">
+<div class="card mb-4 shadow-sm">
             <div class="bd-placeholder-img card-img-top bg-secondary d-flex align-items-center">
               <span class="d-block text-center" style="width: 100%;"><a href="https://mega.nz/file/PktUGSKB#b_sqJt9Vt3AjLNbp8pXapghEV4W0B8Jc2MIH5P8TpgE"
-               target="_blank">奥沢部第1回研鑽会</br>新・人間革命第１巻『旭日』の章1</a></span>  
+               target="_blank">奥沢部第1回研鑽会</br>祈禱抄</a></span>  
+            </div>
+            <div class="card-body">
+              <p class="card-text">文永九年（1272年）
+日蓮大聖人 51歳 御作、於：佐渡、与：最蓮房</br>
+最蓮房が大聖人の法門について質問したことに対する返事。</br>
+内容は、まず諸経諸宗の祈りは一往は祈りとなるが、真の利益はなく、ただ法華経によってのみ祈りが叶うとされている。
+一切の仏・菩薩・二乗・人天等は法華経によって初めて成道し、その恩を報ずるために法華経の行者を守るとされ、
+法華経の行者の祈りは、必ず叶うことが説かれている。更に邪法の祈りは
+験（しるし）がないばかりか、祈る人も祈らせた人もかえってその身を滅ぼす結果になると断言されている。</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <a class="btn btn-sm btn-outline-secondary" href="https://mega.nz/file/q0lAXRbR#MkWSaQO6rBaWGkMXbcrl8Jaw8va8NKQ24DMyB4cq4iE" target="_blank">見る</a>
+                  <!--<button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+                  -->
+                </div><small class="text-muted">pdfファイル</small>
+              </div>
+            </div>
+          </div>
+        </div>
+<!--2................................................................................................................-->        <div class="col-md-4">
+          <div class="card mb-4 shadow-sm">
+            <div class="bd-placeholder-img card-img-top bg-secondary d-flex align-items-center">
+              <span class="d-block text-center" style="width: 100%;"><a href="https://mega.nz/file/q0lAXRbR#MkWSaQO6rBaWGkMXbcrl8Jaw8va8NKQ24DMyB4cq4iE"
+               target="_blank">奥沢部第2回研鑽会</br>新・人間革命第１巻『旭日』の章1</a></span>  
             </div>
             <div class="card-body">
               <p class="card-text">『新・人間革命』第1巻が発刊されたのは1998年（平成10年）の1月2日。池田先生が70歳の古希を迎えた日です。
@@ -112,12 +136,12 @@
             </div>
           </div>
         </div>
-<!--2................................................................................................................-->        
+<!--3................................................................................................................-->        
         <div class="col-md-4">
             <div class="card mb-4 shadow-sm">
               <div class="bd-placeholder-img card-img-top bg-secondary d-flex align-items-center">
                 <span class="d-block text-center" style="width: 100%;"><a href="https://mega.nz/file/FxsGAJ4C#I276K7qSu5Cnn2scd3-osyXA0Yb9M0wbM05arRaP8EI
-" target="_blank">奥沢部第2回研鑽会</br>新・人間革命第１巻『旭日』の章2</a></span>  
+" target="_blank">奥沢部第3回研鑽会</br>新・人間革命第１巻『旭日』の章2</a></span>  
               </div>
               <div class="card-body">
                 <p class="card-text">
@@ -134,16 +158,18 @@
                     <a class="btn btn-sm btn-outline-secondary" href="https://mega.nz/file/FxsGAJ4C#I276K7qSu5Cnn2scd3-osyXA0Yb9M0wbM05arRaP8EI
 " target="_blank">見る</a>
                     <!--<button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>-->
+                    </div><small class="text-muted">23.53分</small>
                   </div>
                 </div>
               </div>
             </div>
           </div>
+ <!--4................................................................................................................-->           
           <div class="col-md-4">
             <div class="card mb-4 shadow-sm">
               <div class="bd-placeholder-img card-img-top bg-secondary d-flex align-items-center">
                 <span class="d-block text-center" style="width: 100%;"><a href="https://mega.nz/file/A50WRQ5D#KJX4uH7JxgI5BYa9zZAo6dQC0_teIEiHWMopz9z7sfQ"
-                 target="_blank">奥沢部第3回研鑽会</br>新・人間革命第１巻『本陣』の章1</a></span>  
+                 target="_blank">奥沢部第4回研鑽会</br>新・人間革命第17巻『本陣』の章1</a></span>  
               </div>  
               <div class="card-body">
                 <p class="card-text">
@@ -158,106 +184,13 @@
                   <div class="btn-group">
                     <a class="btn btn-sm btn-outline-secondary" href="https://mega.nz/file/A50WRQ5D#KJX4uH7JxgI5BYa9zZAo6dQC0_teIEiHWMopz9z7sfQ" target="_blank">見る</a>
                     <!--<button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>-->
+                    </div><small class="text-muted">41.14分</small>
                   </div>
                 </div>
               </div>
             </div>
           </div>
-          <div class="col-md-4">
-            <div class="card mb-4 shadow-sm">
-              <div class="bd-placeholder-img card-img-top bg-secondary d-flex align-items-center">
-                <span class="d-block text-center" style="width: 100%;"><a href="https://www.google.com/intl/ja/homepage/mobile/" target="_blank">2021/01/13(水曜日) 第一回奥沢部</a></span>  
-              </div>  
-              <div class="card-body">
-                <p class="card-text">動画の紹介メッセージを入力　sample sample sample sample sample sample sample sample sample sample sample sample sample sample sample</p>
-                <div class="d-flex justify-content-between align-items-center">
-                  <div class="btn-group">
-                    <a class="btn btn-sm btn-outline-secondary" href="https://www.google.com/intl/ja/homepage/mobile/" target="_blank">View</a>
-                    <!--<button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>-->
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="card mb-4 shadow-sm">
-              <div class="bd-placeholder-img card-img-top bg-secondary d-flex align-items-center">
-                <span class="d-block text-center" style="width: 100%;"><a href="https://www.google.com/intl/ja/homepage/mobile/" target="_blank">2021/01/13(水曜日) 第一回奥沢部</a></span>  
-              </div>  
-              <div class="card-body">
-                <p class="card-text">動画の紹介メッセージを入力　sample sample sample sample sample sample sample sample sample sample sample sample sample sample sample</p>
-                <div class="d-flex justify-content-between align-items-center">
-                  <div class="btn-group">
-                    <a class="btn btn-sm btn-outline-secondary" href="https://www.google.com/intl/ja/homepage/mobile/" target="_blank">View</a>
-                    <!--<button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>-->
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="card mb-4 shadow-sm">
-              <div class="bd-placeholder-img card-img-top bg-secondary d-flex align-items-center">
-                <span class="d-block text-center" style="width: 100%;"><a href="https://www.google.com/intl/ja/homepage/mobile/" target="_blank">2021/01/13(水曜日) 第一回奥沢部</a></span>  
-              </div>  
-              <div class="card-body">
-                <p class="card-text">動画の紹介メッセージを入力　sample sample sample sample sample sample sample sample sample sample sample sample sample sample sample</p>
-                <div class="d-flex justify-content-between align-items-center">
-                  <div class="btn-group">
-                    <a class="btn btn-sm btn-outline-secondary" href="https://www.google.com/intl/ja/homepage/mobile/" target="_blank">View</a>
-                    <!--<button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>-->
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="card mb-4 shadow-sm">
-              <div class="bd-placeholder-img card-img-top bg-secondary d-flex align-items-center">
-                <span class="d-block text-center" style="width: 100%;"><a href="https://www.google.com/intl/ja/homepage/mobile/" target="_blank">2021/01/13(水曜日) 第一回奥沢部</a></span>  
-              </div>  
-              <div class="card-body">
-                <p class="card-text">動画の紹介メッセージを入力　sample sample sample sample sample sample sample sample sample sample sample sample sample sample sample</p>
-                <div class="d-flex justify-content-between align-items-center">
-                  <div class="btn-group">
-                    <a class="btn btn-sm btn-outline-secondary" href="https://www.google.com/intl/ja/homepage/mobile/" target="_blank">View</a>
-                    <!--<button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>-->
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="card mb-4 shadow-sm">
-              <div class="bd-placeholder-img card-img-top bg-secondary d-flex align-items-center">
-                <span class="d-block text-center" style="width: 100%;"><a href="https://www.google.com/intl/ja/homepage/mobile/" target="_blank">2021/01/13(水曜日) 第一回奥沢部</a></span>  
-              </div>  
-              <div class="card-body">
-                <p class="card-text">動画の紹介メッセージを入力　sample sample sample sample sample sample sample sample sample sample sample sample sample sample sample</p>
-                <div class="d-flex justify-content-between align-items-center">
-                  <div class="btn-group">
-                    <a class="btn btn-sm btn-outline-secondary" href="https://www.google.com/intl/ja/homepage/mobile/" target="_blank">View</a>
-                    <!--<button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>-->
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>        <div class="col-md-4">
-            <div class="card mb-4 shadow-sm">
-              <div class="bd-placeholder-img card-img-top bg-secondary d-flex align-items-center">
-                <span class="d-block text-center" style="width: 100%;"><a href="https://www.google.com/intl/ja/homepage/mobile/" target="_blank">2021/01/13(水曜日) 第一回奥沢部</a></span>  
-              </div>  
-              <div class="card-body">
-                <p class="card-text">動画の紹介メッセージを入力　sample sample sample sample sample sample sample sample sample sample sample sample sample sample sample</p>
-                <div class="d-flex justify-content-between align-items-center">
-                  <div class="btn-group">
-                    <a class="btn btn-sm btn-outline-secondary" href="https://www.google.com/intl/ja/homepage/mobile/" target="_blank">View</a>
-                    <!--<button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>-->
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
+<!--5................................................................................................................-->  
 
 
   
