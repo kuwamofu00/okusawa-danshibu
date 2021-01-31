@@ -89,7 +89,7 @@
 <!--1................................................................................................................-->        <div class="col-md-4">
 <div class="card mb-4 shadow-sm">
             <div class="bd-placeholder-img card-img-top bg-secondary d-flex align-items-center">
-              <span class="d-block text-center" style="width: 100%;"><a href="https://mega.nz/file/PktUGSKB#b_sqJt9Vt3AjLNbp8pXapghEV4W0B8Jc2MIH5P8TpgE"
+              <span class="d-block text-center" style="width: 100%;"><a href="https://mega.nz/file/q0lAXRbR#MkWSaQO6rBaWGkMXbcrl8Jaw8va8NKQ24DMyB4cq4iE"
                target="_blank">奥沢部第1回研鑽会</br>祈禱抄</a></span>  
             </div>
             <div class="card-body">
@@ -113,7 +113,7 @@
 <!--2................................................................................................................-->        <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
             <div class="bd-placeholder-img card-img-top bg-secondary d-flex align-items-center">
-              <span class="d-block text-center" style="width: 100%;"><a href="https://mega.nz/file/q0lAXRbR#MkWSaQO6rBaWGkMXbcrl8Jaw8va8NKQ24DMyB4cq4iE"
+              <span class="d-block text-center" style="width: 100%;"><a href="https://mega.nz/file/PktUGSKB#b_sqJt9Vt3AjLNbp8pXapghEV4W0B8Jc2MIH5P8TpgE"
                target="_blank">奥沢部第2回研鑽会</br>新・人間革命第１巻『旭日』の章1</a></span>  
             </div>
             <div class="card-body">
