@@ -191,6 +191,32 @@
             </div>
           </div>
 <!--5................................................................................................................-->  
+<div class="col-md-4">
+            <div class="card mb-4 shadow-sm">
+              <div class="bd-placeholder-img card-img-top bg-secondary d-flex align-items-center">
+                <span class="d-block text-center" style="width: 100%;"><a href="https://mega.nz/file/IlNxBahK#u0V22vmz5PSfTZgdJBvhGH7pIB2kIOeVDyrLhhK93rU"
+                 target="_blank">奥沢部第5回研鑽会</br>新・人間革命第17巻『本陣』の章2</a></span>  
+              </div>  
+              <div class="card-body">
+                <p class="card-text">
+前回の続き
+1973年(昭和48年)は、「教学の年」(別名「青年の年」)。前年に、恩師・戸田城聖の遺言である正本堂建立を実現した伸一は、
+仏法の哲理を時代精神にするべく、先頭に立って教学の深化を図るとともに、広く社会への展開を決意。
+「広布第二章」とは、仏法を基調とした本格的な社会建設の時代への開幕であり、「新しき開拓」を意味した。
+伸一は『大白蓮華』で、てい談「生命論」の連載を開始。また、「仏教大学講座」の創設を発表。
+その担い手は青年たちだった。2月18日の第21回男子部総会、女子部総会、学生部総会、初の九州青年部総会が相次いで開催され出席した。
+その際、伸一は、「師弟の道を歩め」と指導。仏法を社会に大きく展開していくのは遠心力、その遠心力が強くなればなるほど、
+仏法への求心力が必要。その求心力の中心こそが、師弟不二の精神であると訴えた。</p>
+                <div class="d-flex justify-content-between align-items-center">
+                  <div class="btn-group">
+                    <a class="btn btn-sm btn-outline-secondary" href="https://mega.nz/file/IlNxBahK#u0V22vmz5PSfTZgdJBvhGH7pIB2kIOeVDyrLhhK93rU" target="_blank">見る</a>
+                    <!--<button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>-->
+                    </div><small class="text-muted">34.28分</small>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
 
 
   
