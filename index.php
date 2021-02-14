@@ -236,13 +236,13 @@
             
               <div>
               <div class="justify-content-between align-items-center d-flex">
-                <div class="btn-group-1">
+                <div class="btn-group-1 btn-group-sm-1">
 <a class="btn btn-sm btn-outline-secondary" href="https://mega.nz/file/U8MzmSiY#DzbazzcdV0km_604xTsbKqzw3aMopJWPvQX8EXZV5Yc" target="_blank">合同研鑽会①を見る</a>
                 </div>
                 <small class="text-muted">35.36分</small>
               </div>
               <div class="justify-content-between align-items-center d-flex">
-                <div class="btn-group-1">
+                <div class="btn-group-1 btn-group-sm-1">
 <a class="btn btn-sm btn-outline-secondary" href="https://mega.nz/file/BhUnnIYb#Xc1i4ouoK7j3_0m_adUL5l1xvvozgJaNoIbr2krvJoc" target="_blank">合同研鑽会②を見る</a>
                 </div><small class="text-muted">37.43分</small>
               </div>
