@@ -71,12 +71,12 @@ font-size: 1.0rem;
   font-size: .875rem;
   line-height: 1.5;
   border-radius: .2rem;
-  margin-bottom: 3px;
+  margin-bottom: 1px;
 }
 
 .justify-content-between-1 {
   -ms-flex-pack: justify!important;
   justify-content: space-between!important;
-  margin-block: 3px;
+  margin-block: 1px;
 }
 
