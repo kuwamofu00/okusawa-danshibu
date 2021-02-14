@@ -57,3 +57,13 @@ color: #6c757d!important;
 font-size: 1.0rem;
     font-weight: 300;
 }
+
+.btn-group-1, .btn-group-vertical {
+  position: relative;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  vertical-align: middle;
+  padding: 5;
+  padding: 3px;
+}
+
