@@ -74,3 +74,9 @@ font-size: 1.0rem;
   margin-bottom: 3px;
 }
 
+.justify-content-between-1 {
+  -ms-flex-pack: justify!important;
+  justify-content: space-between!important;
+  margin-block: 3px;
+}
+
