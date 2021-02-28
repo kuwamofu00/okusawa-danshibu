@@ -22,7 +22,7 @@
             <li><a href="#" class="text-white">Follow on Twitter</a></li>
             <li><a href="#" class="text-white">Like on Facebook</a></li>
             <li><a href="#" class="text-white">Email me</a></li>
-          </ul>
+      </ul>
         </div>
       </div>
     </div>
@@ -30,7 +30,7 @@
   <div class="navbar navbar-dark bg-dark shadow-sm">
     <div class="container d-flex justify-content-between">
       <a href="#" class="navbar-brand d-flex align-items-center">
-       <img src="sanshokuki.png">   
+       <img src="sanshokuki.png">
 <!--        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" aria-hidden="true" class="mr-2" viewBox="0 0 24 24" focusable="false"><path d="M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z"/><circle cx="12" cy="13" r="4"/></svg>-->
         <strong class="ml-3">setagaya okusawa </strong>
       </a>
@@ -71,13 +71,13 @@
 <!--    <div class="col-md-4">
           <div class="card mb-4 shadow-sm text-white bg-primary" >
              <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text dy=".3em" fill="#eceeef" y="50%" x="20%">2021/01/13(水曜日) 第一回奥沢部</text></svg>
-            <div class="card-header">Header</div>    
+            <div class="card-header">Header</div>
             <a href="https://www.google.com/intl/ja/homepage/mobile/" target="_blank">
                     <img src="http://placehold.jp/600x400.png" alt="" class="card-img-top bd-placeholder-img width="100%" height="225">
                 </a>
             <div class="card-body">
               <p class="card-text">
-                <strong class="d-block">2021/01/13(水曜日) 第一回奥沢部</strong>  
+                <strong class="d-block">2021/01/13(水曜日) 第一回奥沢部</strong>
                 動画の紹介メッセージを入力　sample sample sample sample sample sample sample sample sample sample sample sample sample sample sample</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
@@ -88,13 +88,13 @@
             </div>
           </div>
         </div>
--->        
+-->
 <!--1................................................................................................................-->
         <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
             <div class="bd-placeholder-img card-img-top bg-secondary d-flex align-items-center">
               <span class="d-block text-center" style="width: 100%;"><a href="https://mega.nz/file/q0lAXRbR#MkWSaQO6rBaWGkMXbcrl8Jaw8va8NKQ24DMyB4cq4iE"
-               target="_blank">奥沢部第1回研鑽会</br>祈禱抄</a></span>  
+               target="_blank">奥沢部第1回研鑽会</br>御書『祈禱抄』</a></span>
             </div>
             <div class="card-body">
               <p class="card-text">文永九年（1272年）
@@ -114,13 +114,13 @@
             </div>
           </div>
         </div>
-<!--2................................................................................................................--> 
+<!--2................................................................................................................-->
 
         <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
             <div class="bd-placeholder-img card-img-top bg-secondary d-flex align-items-center">
               <span class="d-block text-center" style="width: 100%;"><a href="https://mega.nz/file/PktUGSKB#b_sqJt9Vt3AjLNbp8pXapghEV4W0B8Jc2MIH5P8TpgE"
-               target="_blank">奥沢部第2回研鑽会</br>新・人間革命第１巻『旭日』の章1</a></span>  
+               target="_blank">奥沢部第2回研鑽会</br>新・人間革命第１巻『旭日』の章1</a></span>
             </div>
             <div class="card-body">
               <p class="card-text">『新・人間革命』第1巻が発刊されたのは1998年（平成10年）の1月2日。池田先生が70歳の古希を迎えた日です。
@@ -142,13 +142,13 @@
             </div>
           </div>
         </div>
-<!--3................................................................................................................--> 
+<!--3................................................................................................................-->
 
         <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
             <div class="bd-placeholder-img card-img-top bg-secondary d-flex align-items-center">
               <span class="d-block text-center" style="width: 100%;"><a href="https://mega.nz/file/FxsGAJ4C#I276K7qSu5Cnn2scd3-osyXA0Yb9M0wbM05arRaP8EI"
-               target="_blank">奥沢部第3回研鑽会</br>新・人間革命第１巻『旭日』の章2</a></span>  
+               target="_blank">奥沢部第3回研鑽会</br>新・人間革命第１巻『旭日』の章2</a></span>
             </div>
             <div class="card-body">
               <p class="card-text">伸一が世界広布の第一歩を刻んだ60年（昭和35年）は、国内外において激動の時代でした。
@@ -170,13 +170,13 @@
             </div>
           </div>
         </div>
-<!--4................................................................................................................--> 
+<!--4................................................................................................................-->
 
         <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
             <div class="bd-placeholder-img card-img-top bg-secondary d-flex align-items-center">
               <span class="d-block text-center" style="width: 100%;"><a href="https://mega.nz/file/A50WRQ5D#KJX4uH7JxgI5BYa9zZAo6dQC0_teIEiHWMopz9z7sfQ"
-               target="_blank">奥沢部第4回研鑽会</br>新・人間革命第17巻『本陣』の章1</a></span>  
+               target="_blank">奥沢部第4回研鑽会</br>新・人間革命第17巻『本陣』の章1</a></span>
             </div>
             <div class="card-body">
               <p class="card-text">1973年(昭和48年)は、「教学の年」(別名「青年の年」)。前年に、恩師・戸田城聖の遺言である正本堂建立を実現した伸一は、
@@ -196,12 +196,12 @@
             </div>
           </div>
         </div>
-<!--5................................................................................................................--> 
+<!--5................................................................................................................-->
         <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
             <div class="bd-placeholder-img card-img-top bg-secondary d-flex align-items-center">
               <span class="d-block text-center" style="width: 100%;"><a href="https://mega.nz/file/IlNxBahK#u0V22vmz5PSfTZgdJBvhGH7pIB2kIOeVDyrLhhK93rU"
-               target="_blank">奥沢部第5回研鑽会</br>新・人間革命第17巻『本陣』の章2</a></span>  
+               target="_blank">奥沢部第5回研鑽会</br>新・人間革命第17巻『本陣』の章2</a></span>
             </div>
             <div class="card-body">
               <p class="card-text">
@@ -218,22 +218,21 @@
             </div>
           </div>
         </div>
-<!--6................................................................................................................--> 
+<!--6................................................................................................................-->
 <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
             <div class="bd-placeholder-img card-img-top bg-secondary d-flex align-items-center">
               <span class="d-block text-center" style="width: 100%;">
-              <a>奥沢部第6回研鑽会</br>新人間革命 第4巻 『立正安国』</br>奥沢部と本部ヤングによる合同教学研鑽会</br></a></span>  
+              <a>奥沢部第6回研鑽会</br>新人間革命 第4巻 『立正安国』</a></span>
             </div>
             <div class="card-body">
               <p class="card-text">
-              ※今回は合同研鑽会①、②の2部構成　
               1961年（昭和36年）2月、伸一は、東洋広布の第一歩をしるしたアジアから帰国するや、各地の支部結成大会へ。“大阪事件”の裁判が大きなヤマ場に差しかかっているなか、関西の3総支部の合同幹部会にも出席。自ら学会歌の指揮をとり、全魂を込めて同志を励ます。また、各地で学会員への村八分事件が起こる。
 1961年5月3日、未曽有の広布の上げ潮のなか、伸一の会長就任1周年を迎える。この日、東京・両国の日大講堂で本部総会を開催。席上、伸一は「創価学会こそ“日本の柱”であり、“世界の太陽”である」と宣言する。
               1961年7月3日、伸一は戸田城聖の墓参に。胸には「権力の魔性と戦え！　民衆を守れ！」との師の言葉がこだまする。
               8月の夏季講習会を控え、伸一は寸暇を惜しんで「立正安国論」を研鑽。大聖人の御振る舞いに思いをはせる。
 
-            
+
               <div>
               <div class="justify-content-between-1 align-items-center d-flex">
                 <div class="btn-group-sm-1 btn-group-1">
@@ -253,32 +252,65 @@
           </div>
         </div>
 
-<!--6................................................................................................................--> 
+<!--6................................................................................................................-->
+        <div class="col-md-4">
+                  <div class="card mb-4 shadow-sm">
+                    <div class="bd-placeholder-img card-img-top bg-secondary d-flex align-items-center">
+                      <span class="d-block text-center" style="width: 100%;">
+                      <a>奥沢部第7回研鑽会<br>新人間革命 第1巻 『新世界』<br></a></span>
+                    </div>
+                    <div class="card-body">
+                      <p class="card-text">
+                      1960（昭和35）年10月２日、伸一は、「君の本当の舞台は世界だよ」との師の遺訓を胸に、北南米へ出発。
+        平和旅の第一歩は、太平洋戦争の火蓋（ひぶた）が切られたハワイの地にしるされた。伸一は渾身（こんしん）の指導を重ねながら仏法を世界宗教として開くための構想を練る。　
+                      第2の訪問地サンフランシスコは日本の講和条約と日米安全保障条約の調印の地。伸一は、その地で、世界の冷戦と新安保条約をめぐり混乱する国会に思いをはせる。
+                      サンフランシスコ、ネバダに地区を結成し、やがてアメリカの同志の誓いとなる3指針を提案する。
+
+                      <div>
+                      <div class="justify-content-between-1 align-items-center d-flex">
+                        <div class="btn-group-sm-1 btn-group-1">
+        <a class="btn btn-sm btn-outline-secondary" href="https://mega.nz/file/hx0wVKKJ#p28Rwa_dyOsv23lhI8gOYoD7tHgBlTTw0mcDOmAvKdA" target="_blank">合同研鑽会①を見る</a>
+                        </div>
+                        <small class="text-muted">34.19分</small>
+                      </div>
+                      <div class="justify-content-between-1 align-items-center d-flex">
+                        <div class="btn-group-sm-1 btn-group-1">
+        <a class="btn btn-sm btn-outline-secondary" href="https://mega.nz/file/d41CkIxB#p07HOy_UB1YU0osO0IZKaoUt3i4aCXsx8v2rxF6V2VE" target="_blank">合同研鑽会②を見る</a>
+                        </div><small class="text-muted">34.29分</small>
+                      </div>
+                      </div>
+
+
+                    </div>
+                  </div>
+                </div>
+
+<!--７................................................................................................................-->
 <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
             <div class="bd-placeholder-img card-img-top bg-secondary d-flex align-items-center">
               <span class="d-block text-center" style="width: 100%;">
-              <a>奥沢部第7回研鑽会<br>新人間革命 第1巻 『新世界』<br>奥沢部と本部ヤングによる合同教学研鑽会<br></a></span>  
+              <a>奥沢部第8回研鑽会<br>御書『生死一大事血脈抄』</a></span>
             </div>
             <div class="card-body">
               <p class="card-text">
-              ※今回は合同研鑽会①、②の2部構成<br>
-              1960（昭和35）年10月２日、伸一は、「君の本当の舞台は世界だよ」との師の遺訓を胸に、北南米へ出発。
-平和旅の第一歩は、太平洋戦争の火蓋（ひぶた）が切られたハワイの地にしるされた。伸一は渾身（こんしん）の指導を重ねながら仏法を世界宗教として開くための構想を練る。　
-              第2の訪問地サンフランシスコは日本の講和条約と日米安全保障条約の調印の地。伸一は、その地で、世界の冷戦と新安保条約をめぐり混乱する国会に思いをはせる。
-              サンフランシスコ、ネバダに地区を結成し、やがてアメリカの同志の誓いとなる3指針を提案する。
-            
+文永9年（1272年）2月、日蓮大聖人が佐渡国（新潟県佐渡島）塚原でしたためられ、同じく佐渡に流罪中の最蓮房［さいれんぼう］に与えられた書とされる（1336㌻）。
+もとは天台宗の学僧で、佐渡で大聖人の門下となった最蓮房が、生死一大事血脈という成仏の要諦に関する法門について質問したのに対して、回答している。
+生死の苦悩を超克し成仏を実現させる妙法が、師から弟子に伝えられていくこと。「生死一大事血脈抄」では、
+仏と法と衆生がともに妙法の当体であると信じて題目を唱える信心、
+三世にわたって法華経から離れない持続・不退転の信心、異体同心の信心の三つを生死一大事の血脈の要件として挙げられている（1337㌻）
+「成仏」という最高の幸福を得るための重要な道すじが説かれている。
               <div>
               <div class="justify-content-between-1 align-items-center d-flex">
                 <div class="btn-group-sm-1 btn-group-1">
-<a class="btn btn-sm btn-outline-secondary" href="https://mega.nz/file/hx0wVKKJ#p28Rwa_dyOsv23lhI8gOYoD7tHgBlTTw0mcDOmAvKdA" target="_blank">合同研鑽会①を見る</a>
+<a class="btn btn-sm btn-outline-secondary" href="https://mega.nz/file/B5lwzKCL#8lSsf20mu4aNUBN1FNdRUv3u0lqVzPRrzNgnqkgzX48" target="_blank">合同研鑽会①を見る</a>
                 </div>
-                <small class="text-muted">34.19分</small>
+                <small class="text-muted">35.11分</small>
               </div>
               <div class="justify-content-between-1 align-items-center d-flex">
                 <div class="btn-group-sm-1 btn-group-1">
-<a class="btn btn-sm btn-outline-secondary" href="https://mega.nz/file/d41CkIxB#p07HOy_UB1YU0osO0IZKaoUt3i4aCXsx8v2rxF6V2VE" target="_blank">合同研鑽会②を見る</a>
-                </div><small class="text-muted">34.29分</small>
+<a class="btn btn-sm btn-outline-secondary" href="https://mega.nz/file/5xM2xToA#xEHeXgMvVciAN_lWaSYsbNTzuVmjtYk5-jxCRIufw2g" target="_blank">合同研鑽会②を見る</a>
+</div><small class="text-muted">38.27分</small>
               </div>
               </div>
 
@@ -292,7 +324,7 @@
           <div class="card mb-4 shadow-sm">
             <div class="bd-placeholder-img card-img-top bg-secondary d-flex align-items-center">
               <span class="d-block text-center" style="width: 100%;"><a href=""
-               target="_blank"></br></a></span>  
+               target="_blank"></br></a></span>
             </div>
             <div class="card-body">
               <p class="card-text"></p>
@@ -305,7 +337,7 @@
           </div>
         </div>
 -->
-  
+
 <!--    <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
             <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text dy=".3em" fill="#eceeef" y="50%" x="20%">2021/01/13(水曜日) 第一回奥沢部</text></svg>
@@ -339,7 +371,7 @@
 </footer>
 
 
-  
+
 
 </body>
 </html>
