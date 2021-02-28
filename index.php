@@ -57,8 +57,8 @@
         </br>不特定多数の方が閲覧できるブログやSNSへの投稿、録画し内外に展開すること。</p>
       </p>
       <p>
-        <a href="" class="btn btn-primary my-2">工事中</a>
-        <a href="" class="btn btn-secondary my-2">工事中</a>
+        <a href="#new" class="btn btn-primary my-2">最新の記事</a>
+        <a href="#top" class="btn btn-secondary my-2">最初の記事</a>
 
       </p>
     </div>
@@ -90,7 +90,7 @@
         </div>
 -->
 <!--1................................................................................................................-->
-        <div class="col-md-4">
+        <div class="col-md-4" id="top">
           <div class="card mb-4 shadow-sm">
             <div class="bd-placeholder-img card-img-top bg-secondary d-flex align-items-center">
               <span class="d-block text-center" style="width: 100%;"><a href="https://mega.nz/file/q0lAXRbR#MkWSaQO6rBaWGkMXbcrl8Jaw8va8NKQ24DMyB4cq4iE"
@@ -286,7 +286,7 @@
                 </div>
 
 <!--７................................................................................................................-->
-<div class="col-md-4">
+<div class="col-md-4" id="new">
           <div class="card mb-4 shadow-sm">
             <div class="bd-placeholder-img card-img-top bg-secondary d-flex align-items-center">
               <span class="d-block text-center" style="width: 100%;">
@@ -303,18 +303,16 @@
               <div>
               <div class="justify-content-between-1 align-items-center d-flex">
                 <div class="btn-group-sm-1 btn-group-1">
-<a class="btn btn-sm btn-outline-secondary" href="https://mega.nz/file/B5lwzKCL#8lSsf20mu4aNUBN1FNdRUv3u0lqVzPRrzNgnqkgzX48" target="_blank">合同研鑽会①を見る</a>
+<a class="btn btn-sm btn-outline-secondary" href="" target="_blank">合同研鑽会①を見る</a>
                 </div>
-                <small class="text-muted">35.11分</small>
+                <small class="text-muted">34.19分</small>
               </div>
               <div class="justify-content-between-1 align-items-center d-flex">
                 <div class="btn-group-sm-1 btn-group-1">
-<a class="btn btn-sm btn-outline-secondary" href="https://mega.nz/file/5xM2xToA#xEHeXgMvVciAN_lWaSYsbNTzuVmjtYk5-jxCRIufw2g" target="_blank">合同研鑽会②を見る</a>
-</div><small class="text-muted">38.27分</small>
+<a class="btn btn-sm btn-outline-secondary" href="" target="_blank">合同研鑽会②を見る</a>
+                </div><small class="text-muted">34.29分</small>
               </div>
               </div>
-
-
             </div>
           </div>
         </div>
