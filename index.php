@@ -305,12 +305,47 @@
                 <div class="btn-group-sm-1 btn-group-1">
 <a class="btn btn-sm btn-outline-secondary" href="" target="_blank">合同研鑽会①を見る</a>
                 </div>
-                <small class="text-muted">34.19分</small>
+                <small class="text-muted">35.11分</small>
               </div>
               <div class="justify-content-between-1 align-items-center d-flex">
                 <div class="btn-group-sm-1 btn-group-1">
 <a class="btn btn-sm btn-outline-secondary" href="" target="_blank">合同研鑽会②を見る</a>
-                </div><small class="text-muted">34.29分</small>
+                </div>
+                <small class="text-muted">38.27分</small>
+              </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+<!--8................................................................................................................-->
+<div class="col-md-4" id="new">
+          <div class="card mb-4 shadow-sm">
+            <div class="bd-placeholder-img card-img-top bg-secondary d-flex align-items-center">
+              <span class="d-block text-center" style="width: 100%;">
+              <a>奥沢部第9回研鑽会<br>新人間革命 第1巻『錦秋の章』</a></span>
+            </div>
+            <div class="card-body">
+              <p class="card-text">
+平和旅の舞台はシアトル、シカゴ、トロントへ。シカゴで伸一は、同行の幹部たちにアメリカ総支部の構想、
+インド、ヨーロッパ訪問の計画を語る。またリンカーン・パークで遊びの輪に入れてもらえない黒人少年を目にし、
+人種差別の現実に心を痛める。
+"あの少年は、どんな思いでここを立ち去って行ったのだろうか。
+こうした仕打ちが、日常茶飯事であるとすれば、少年の心は、どれほど無残に踏みにじられているか計り知れない。
+その心の傷口は、憤怒と悲哀の血にまみれているにちがいない"
+少年の未来を思うと、伸一の胸は苦しかった。強い憤りを覚えた。彼の拳は震えていた。
+              <div>
+              <div class="justify-content-between-1 align-items-center d-flex">
+                <div class="btn-group-sm-1 btn-group-1">
+<a class="btn btn-sm btn-outline-secondary" href="https://mega.nz/file/t5sGDRKQ#ALSdn460XDPs92luTQOrxxkU7IDDhXVQp2crJm-jqXM" target="_blank">合同研鑽会①を見る</a>
+                </div>
+                <small class="text-muted">36.50分</small>
+              </div>
+              <div class="justify-content-between-1 align-items-center d-flex">
+                <div class="btn-group-sm-1 btn-group-1">
+<a class="btn btn-sm btn-outline-secondary" href="https://mega.nz/file/Fl80jbwD#psazIymnHg80nPbELUVI-PTo1QKxc4IGdgKiDCCouHU" target="_blank">合同研鑽会②を見る</a>
+                </div>
+                <small class="text-muted">28.53分</small>
               </div>
               </div>
             </div>
