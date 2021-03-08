@@ -286,7 +286,7 @@
                 </div>
 
 <!--７................................................................................................................-->
-<div class="col-md-4" id="new">
+<div class="col-md-4">
           <div class="card mb-4 shadow-sm">
             <div class="bd-placeholder-img card-img-top bg-secondary d-flex align-items-center">
               <span class="d-block text-center" style="width: 100%;">
